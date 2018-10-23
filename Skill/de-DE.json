@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "Lübecker Fakten",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GetNewFactIntent",
+          "samples": [
+            "gebe mir ein fakt zu lübeck",
+            "gib mir ein fakt zu lübeck",
+            "fakt zu lübeck",
+            "fakten zu lübeck",
+            "gebe ein fakt zu lübeck",
+            "öffne fakten zu lübeck",
+            "starte fakten zu lübeck",
+            "Nenne mir einen Fakt über Lübeck",
+            "sage mir einen fakt über lübeck",
+            "erzähle mir einen fakt über lübeck"
+          ],
+          "slots": []
+        }
+      ]
+    }
+  }
+}

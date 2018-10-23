@@ -1,0 +1,18 @@
+{
+  "deploy_settings": {
+    "default": {
+      "skill_id": "amzn1.ask.skill.3c118edb-823e-4694-aa6f-6c85756bac4a",
+      "merge": {
+        "manifest": {
+          "apis": {
+            "custom": {
+              "endpoint": {
+                "uri": "ask-custom-fact-default"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
