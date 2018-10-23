@@ -158,8 +158,8 @@ const deData = {
     FALLBACK_REPROMPT: 'Wie kann ich dir helfen?',
     ERROR_MESSAGE: 'Es ist ein Fehler aufgetreten.',
     STOP_MESSAGE: 'Auf Wiedersehen!',
-    FACTS:
-      [
+    FACTS: 
+    {
         'Lübeck ist Erfinder des Lübecker Marzipan von Niederegger.',
         'aus Lübeck kommen die Lübecker Hütchen auch bekannt als Leitkegel.',
         'erst seit Herbst 2008 ist der Lübecker Hauptbahnhof an das elektrische Streckennetz angebunden.',
@@ -172,7 +172,7 @@ const deData = {
         'Seit neunzehnhundertsiebenundachtzig gehört Lübeck zum UNESCO weltkulturerbe.',
         'Lübeck erbreitet sich auf einer Fläche von 214 Quadratkilometer.'
         'Lübeck hat aktuell 216000 Einwohner.',
-      ],
+    },
   },
 };
 
