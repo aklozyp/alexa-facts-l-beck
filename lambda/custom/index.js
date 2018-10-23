@@ -159,20 +159,73 @@ const deData = {
     ERROR_MESSAGE: 'Es ist ein Fehler aufgetreten.',
     STOP_MESSAGE: 'Auf Wiedersehen!',
     FACTS: 
-    {
-        'Lübeck ist Erfinder des Lübecker Marzipan von Niederegger.',
-        'aus Lübeck kommen die Lübecker Hütchen auch bekannt als Leitkegel.',
-        'erst seit Herbst 2008 ist der Lübecker Hauptbahnhof an das elektrische Streckennetz angebunden.',
-        'Das Lübecker Wappen stammt aus dem Jahre 14 150 und ist damit das älteste Stadtwappen Schleswig Holsteins.',
-        'mit 42 Prozent ist evangelisch die am meisten verbreitete Religion in Lübeck.',
-        'fast die hälfte der Einwohner in Lübeck haben keine Religion.',
-        'Im Jahre 19 111 überschritt die Einwohnerzahl die Grenze von 100000, wodurch Lübeck zur Grossstadt wurde.',
-        '11 138 wurde Lübeck vollkommen zerstört und wurde an der heutigen Lage wieder auf gebaut.',
-        'Lübeck wurde 819 von den Slawen gegründet und hieß damals Liubice.',
-        'Seit neunzehnhundertsiebenundachtzig gehört Lübeck zum UNESCO weltkulturerbe.',
-        'Lübeck erbreitet sich auf einer Fläche von 214 Quadratkilometer.'
-        'Lübeck hat aktuell 216000 Einwohner.',
-    },
+     "types": [
+        {
+          "name": "facts",
+          "values": [
+            {
+              "name": {
+                "value": "Lübeck ist Erfinder des Lübecker Marzipan von Niederegger "
+              }
+            },
+            {
+              "name": {
+                "value": "aus Lübeck kommen die Lübecker Hütchen auch bekannt als Leitkegel."
+              }
+            },
+            {
+              "name": {
+                "value": "erst seit Herbst 2008 ist der Lübecker Hauptbahnhof an das elektrische Streckennetz angebunden."
+              }
+            },
+            {
+              "name": {
+                "value": "Das Lübecker Wappen stammt aus dem Jahre 14 150 und ist damit das älteste Stadtwappen Schleswig Holsteins"
+              }
+            },
+            {
+              "name": {
+                "value": "mit 42 Prozent ist evangelisch die am meisten verbreitete Religion in Lübeck "
+              }
+            },
+            {
+              "name": {
+                "value": "fast die hälfte der Einwohner in Lübeck haben keine Religion"
+              }
+            },
+            {
+              "name": {
+                "value": "Im Jahre 19 111 überschritt die Einwohnerzahl die Grenze von 100000, wodurch Lübeck zur Grossstadt wurde"
+              }
+            },
+            {
+              "name": {
+                "value": "11 138 wurde Lübeck vollkommen zerstört und wurde an der heutigen Lage wieder auf gebaut"
+              }
+            },
+            {
+              "name": {
+                "value": "Lübeck wurde 819 von den Slawen gegründet und hieß damals Liubice"
+              }
+            },
+            {
+              "name": {
+                "value": "Seit neunzehnhundertsiebenundachtzig gehört Lübeck zum UNESCO weltkulturerbe"
+              }
+            },
+            {
+              "name": {
+                "value": "Lübeck erbreitet sich auf einer Fläche von 214 Quadratkilometer"
+              }
+            },
+            {
+              "name": {
+                "value": "Lübeck hat aktuell 216000 Einwohner"
+              }
+            }
+          ]
+        }
+      ]
   },
 };
 
